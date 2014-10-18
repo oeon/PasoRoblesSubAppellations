@@ -94,8 +94,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.81338882446288,
-          35.59753373914372
+          -120.8215856552124,
+          35.59352937182021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "boundary_pt": 8,
+        "district": "Adelaida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.82087755203246,
+          35.588538899491645
         ]
       }
     }
