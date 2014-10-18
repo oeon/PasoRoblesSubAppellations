@@ -126,6 +126,20 @@
           35.579080577588705
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "boundary_pt": 10,
+        "district": "Adelaida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9438782930374,
+          35.6175176837112
+        ]
+      }
     }
   ]
 }
