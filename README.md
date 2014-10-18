@@ -11,7 +11,7 @@ http://kcbx.org/post/paso-robles-wine-growing-region-has-new-recognition-its-div
 * http://geojson.io
 * http://qgis.org
 
-###support data (sources to-come):  
+###support data:  
 * SLO Roads
  - http://slocountyfire.org/data.html
 * Public Land Survey (filled)
