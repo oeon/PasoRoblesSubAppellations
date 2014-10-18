@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Adelaida",
+        "boundary_pt": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.68437725305557,
+          35.695743686535636
+        ]
+      }
+    }
+  ]
+}
