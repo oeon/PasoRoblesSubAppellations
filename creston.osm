@@ -67,9 +67,7 @@
   <node id='-613775' visible='true' lat='35.4682551' lon='-120.3778305' />
   <node id='-613774' visible='true' lat='35.4684906' lon='-120.378558' />
   <node id='-613773' visible='true' lat='35.4685797' lon='-120.3790296' />
-  <node id='-613772' visible='true' lat='35.4686896' lon='-120.3790581'>
-    <tag k='highway' v='stop' />
-  </node>
+  <node id='-613772' action='modify' visible='true' lat='35.4686896' lon='-120.3790581' />
   <node id='-613771' visible='true' lat='35.4688485' lon='-120.379229' />
   <node id='-613770' visible='true' lat='35.469115' lon='-120.379446' />
   <node id='-613769' visible='true' lat='35.46968' lon='-120.379919' />
