@@ -24,7 +24,7 @@ http://kcbx.org/post/paso-robles-wine-growing-region-has-new-recognition-its-div
 * Public Land Survey (filled)
  - http://www.atlas.ca.gov/download.html#/casil/planning/planningAndDevelopment
 * (San Luis Obispo County) SLO Aerials
- - http://gis.slocounty.ca.gov/arcgis/rest/services
+ - http://gis.slocounty.ca.gov/arcgis/rest/services/Aerials/2011_Combined_WGSWMAS/MapServer/tile/{zoom}/{y}/{x}
 * SLO Roads
  - http://slocountyfire.org/data.html
 * USA Topo (meh)
