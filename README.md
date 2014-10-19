@@ -23,7 +23,7 @@ http://kcbx.org/post/paso-robles-wine-growing-region-has-new-recognition-its-div
  - I used the TileLayerPlugin for QGIS with this .tsv `topos   JOSM_topos      http://a.tile.openstreetmap.us/usgs_scanned_topos/{z}/{x}/{y}.png`, borrowed/altered from JOSM/OSM-US
 * OSM
  - OpenLayers plugin within QGIS
-* Public Land Survey (filled)
+* Teale Public Land Survey System (has Land Grant boundaries)
  - http://www.atlas.ca.gov/download.html#/casil/planning/planningAndDevelopment
 * (San Luis Obispo County) SLO Aerials
  - http://gis.slocounty.ca.gov/arcgis/rest/services/Aerials/2011_Combined_WGSWMAS/MapServer/tile/{zoom}/{y}/{x}
