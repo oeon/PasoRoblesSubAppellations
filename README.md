@@ -9,7 +9,7 @@ http://kcbx.org/post/paso-robles-wine-growing-region-has-new-recognition-its-div
 
 ###support tools:  
 * http://geojson.io
-* http://qgis.org
+* http://qgis.org (Vector>Geometry Tools>Lines to Polygons)
 * http://ogre.adc4gis.com/ (convert EPSG:2229 shapefile to geojson -> geojson.io to kml for JOSM reference)
 * JOSM (`F` follow way tool, Create New Layer > Save As .osm > geojson.io > Save As .geojson
 
