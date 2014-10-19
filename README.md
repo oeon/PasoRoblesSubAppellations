@@ -10,6 +10,7 @@ http://kcbx.org/post/paso-robles-wine-growing-region-has-new-recognition-its-div
 ###support tools:  
 * http://geojson.io
 * http://qgis.org
+* http://ogre.adc4gis.com/ (convert EPSG:2229 shapefile to geojson -> geojson.io to kml for JOSM reference)
 
 ###support data:  
 * City Limits
