@@ -33,3 +33,7 @@ http://www.ecfr.gov/cgi-bin/text-idx?SID=b93ce2451136237633a995e00e67e21f&node=2
  - http://slocountyfire.org/data.html
 * USA Topo (meh)
  - what The National Map - Service Endpoints point to now. Doesn't have the same map features which are in description.
+
+###errors encountered
+1. §9.239   Creston District. 11) BM 1533 (located beside Creston Shandon Road (State Route 41)) **cannot find**
+2. §9.240   El Pomar District. 22) Proceed east along the southern boundary of section 4 approximately 0.75 mile to the section line's intersection with State Route 41; then **do you mean *'Proceed west'*?**
