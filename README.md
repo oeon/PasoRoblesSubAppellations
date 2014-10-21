@@ -28,7 +28,7 @@ http://www.ecfr.gov/cgi-bin/text-idx?SID=b93ce2451136237633a995e00e67e21f&node=2
 * Teale Public Land Survey System (has Land Grant boundaries)
  - http://www.atlas.ca.gov/download.html#/casil/planning/planningAndDevelopment
 * (San Luis Obispo County) SLO Aerials
- - http://gis.slocounty.ca.gov/arcgis/rest/services/Aerials/2011_Combined_WGSWMAS/MapServer/tile/{zoom}/{y}/{x}
+ - tms:`http://gis.slocounty.ca.gov/arcgis/rest/services/Aerials/2011_Combined_WGSWMAS/MapServer/tile/{zoom}/{y}/{x}`
 * SLO Roads
  - http://slocountyfire.org/data.html
 * USA Topo (meh)
