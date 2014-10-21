@@ -144,6 +144,19 @@
           35.60650358002505
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "boundary_pt": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.65892577171324,
+          35.59911274830755
+        ]
+      }
     }
   ]
 }
