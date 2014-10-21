@@ -27,6 +27,45 @@
           35.52472812570038
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "boundary_pt": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.64567565917967,
+          35.535421712373655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "boundary_pt": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.64754247665405,
+          35.539690890798916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "boundary_pt": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.64413070678711,
+          35.54253251857414
+        ]
+      }
     }
   ]
 }
