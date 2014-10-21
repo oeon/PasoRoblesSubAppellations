@@ -105,6 +105,45 @@
           35.550707638777205
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "boundary_pt": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.65071821212767,
+          35.57487021800913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "boundary_pt": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.65822571516037,
+          35.574926939349794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "boundary_pt": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.68192571401596,
+          35.60650358002505
+        ]
+      }
     }
   ]
 }
