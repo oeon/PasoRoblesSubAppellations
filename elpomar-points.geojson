@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "El Pomar",
+        "boundary_pt": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.63812792301178,
+          35.5106359106042
+        ]
+      }
+    }
+  ]
+}
