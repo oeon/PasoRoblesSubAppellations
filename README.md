@@ -1,17 +1,18 @@
-PasoRoblesSubAppellations
 =========================
 
-###data source:  
-http://www.ecfr.gov/cgi-bin/text-idx?SID=b93ce2451136237633a995e00e67e21f&node=20141009y1.2
+##making open geo data of the new Paso Robles sub-appellations
 
 ###news article:  
 http://kcbx.org/post/paso-robles-wine-growing-region-has-new-recognition-its-diversity
 
+###data source:  
+http://www.ecfr.gov/cgi-bin/text-idx?SID=b93ce2451136237633a995e00e67e21f&node=20141009y1.2
+
 ###support tools:  
 * http://geojson.io
-* http://qgis.org (Vector>Geometry Tools>Lines to Polygons)
+* http://qgis.org (Vector>Geometry Tools>Lines to Polygons of my josm-osm>geojsonio-geojson-line>qgis-shp-poly>qgis-geojson-poly)
 * http://ogre.adc4gis.com/ (convert EPSG:2229 shapefile to geojson -> geojson.io to kml for JOSM reference via opendata plugin)
-* JOSM + opendata plugin (`F` follow way tool, Create New Layer > Save As .osm > geojson.io > Save As .geojson
+* JOSM + opendata plugin (`F` follow way tool, Create New Layer > Save As .osm > geojson.io > Save As .geojson) I finally remembered you can Save As .geojson from JOSM.
 * http://www.ngs.noaa.gov/NGSDataExplorer/ (National Geodetic Survey Data Explorer, to lookup benchmarks not visible on USGS Topos)
 
 ###support data:  
