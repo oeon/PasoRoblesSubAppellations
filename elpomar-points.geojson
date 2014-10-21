@@ -66,6 +66,45 @@
           35.54253251857414
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "boundary_pt": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.64483880996706,
+          35.55651657424606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "boundary_pt": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.64393490552902,
+          35.56274838255053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "boundary_pt": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6454074382782,
+          35.550707638777205
+        ]
+      }
     }
   ]
 }
