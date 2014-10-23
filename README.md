@@ -2,7 +2,7 @@
 
 ##making open geo data of the new Paso Robles sub-appellations
 
-###I'm using JOSM Editor with OpenStreetMap data to digitize textual descriptions of boundaries, using JOSM's tracing along OSM vector data and (USGS topo) basemap reference functionality - along with various other open geo tools and data.
+###I'm using JOSM Editor with OpenStreetMap data to digitize textual descriptions of boundaries, using JOSM to trace along OSM vector data and referencing (imagery & USGS topo) basemaps - along with various other open geo tools and data.
 
 ###news article:  
 http://kcbx.org/post/paso-robles-wine-growing-region-has-new-recognition-its-diversity
