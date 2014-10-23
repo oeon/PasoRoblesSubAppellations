@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-36706' visible='true' lat='35.57978726072' lon='-120.56326687706' />
+  <node id='-36705' visible='true' lat='35.57541010043' lon='-120.55460813373' />
+  <node id='-36704' visible='true' lat='35.57153663815' lon='-120.55462513592' />
   <node id='-1444' visible='true' lat='35.511245' lon='-120.636461' />
   <node id='-1442' visible='true' lat='35.511428' lon='-120.635897' />
   <node id='-1440' visible='true' lat='35.511591' lon='-120.635314' />
@@ -226,50 +229,6 @@
   <node id='-998' visible='true' lat='35.571574' lon='-120.551918' />
   <node id='-996' visible='true' lat='35.571572' lon='-120.552611' />
   <node id='-994' visible='true' lat='35.571557' lon='-120.553527' />
-  <node id='-992' visible='true' lat='35.571528' lon='-120.555091' />
-  <node id='-990' visible='true' lat='35.571506' lon='-120.556059' />
-  <node id='-988' visible='true' lat='35.571425' lon='-120.559177' />
-  <node id='-986' visible='true' lat='35.571381' lon='-120.560595' />
-  <node id='-984' visible='true' lat='35.571381' lon='-120.561334' />
-  <node id='-982' visible='true' lat='35.571946' lon='-120.56136' />
-  <node id='-980' visible='true' lat='35.572724' lon='-120.56136' />
-  <node id='-978' visible='true' lat='35.573368' lon='-120.561383' />
-  <node id='-976' visible='true' lat='35.574597' lon='-120.561394' />
-  <node id='-974' visible='true' lat='35.574665' lon='-120.561407' />
-  <node id='-972' visible='true' lat='35.574815' lon='-120.561472' />
-  <node id='-970' visible='true' lat='35.575302' lon='-120.561775' />
-  <node id='-968' visible='true' lat='35.575706' lon='-120.561968' />
-  <node id='-966' visible='true' lat='35.575987' lon='-120.562055' />
-  <node id='-964' visible='true' lat='35.576116' lon='-120.562077' />
-  <node id='-962' visible='true' lat='35.576238' lon='-120.562083' />
-  <node id='-960' visible='true' lat='35.576642' lon='-120.562084' />
-  <node id='-958' visible='true' lat='35.576811' lon='-120.562103' />
-  <node id='-956' visible='true' lat='35.57697' lon='-120.562135' />
-  <node id='-954' visible='true' lat='35.577104' lon='-120.562179' />
-  <node id='-952' visible='true' lat='35.577218' lon='-120.56224' />
-  <node id='-950' visible='true' lat='35.577289' lon='-120.562321' />
-  <node id='-948' visible='true' lat='35.577371' lon='-120.562507' />
-  <node id='-946' visible='true' lat='35.577423' lon='-120.562576' />
-  <node id='-944' visible='true' lat='35.577514' lon='-120.562653' />
-  <node id='-942' visible='true' lat='35.57768' lon='-120.562758' />
-  <node id='-940' visible='true' lat='35.57777' lon='-120.562794' />
-  <node id='-938' visible='true' lat='35.57789' lon='-120.562784' />
-  <node id='-936' visible='true' lat='35.577982' lon='-120.562751' />
-  <node id='-934' visible='true' lat='35.57801' lon='-120.562719' />
-  <node id='-932' visible='true' lat='35.578023' lon='-120.562684' />
-  <node id='-930' visible='true' lat='35.578023' lon='-120.56264' />
-  <node id='-928' visible='true' lat='35.577988' lon='-120.562559' />
-  <node id='-926' visible='true' lat='35.577838' lon='-120.562406' />
-  <node id='-924' visible='true' lat='35.577813' lon='-120.562334' />
-  <node id='-922' visible='true' lat='35.577816' lon='-120.56224' />
-  <node id='-920' visible='true' lat='35.577831' lon='-120.562178' />
-  <node id='-918' visible='true' lat='35.577861' lon='-120.562122' />
-  <node id='-916' visible='true' lat='35.577912' lon='-120.562053' />
-  <node id='-914' visible='true' lat='35.578018' lon='-120.561956' />
-  <node id='-912' visible='true' lat='35.578163' lon='-120.561882' />
-  <node id='-910' visible='true' lat='35.578241' lon='-120.561853' />
-  <node id='-908' visible='true' lat='35.578314' lon='-120.56184' />
-  <node id='-906' visible='true' lat='35.578431' lon='-120.561852' />
   <node id='-904' visible='true' lat='35.57978726072' lon='-120.56326687706' />
   <node id='-902' visible='true' lat='35.58178035517' lon='-120.57292512349' />
   <node id='-900' visible='true' lat='35.58230407583' lon='-120.58637691653' />
@@ -653,173 +612,9 @@
   <node id='-10' visible='true' lat='35.510645' lon='-120.638126' />
   <node id='-8' visible='true' lat='35.51082' lon='-120.637729' />
   <way id='-1446' action='modify' visible='true'>
-    <nd ref='-660' />
-    <nd ref='-662' />
-    <nd ref='-664' />
-    <nd ref='-666' />
-    <nd ref='-668' />
-    <nd ref='-670' />
-    <nd ref='-672' />
-    <nd ref='-674' />
-    <nd ref='-676' />
-    <nd ref='-678' />
-    <nd ref='-680' />
-    <nd ref='-682' />
-    <nd ref='-684' />
-    <nd ref='-686' />
-    <nd ref='-688' />
-    <nd ref='-690' />
-    <nd ref='-692' />
-    <nd ref='-694' />
-    <nd ref='-696' />
-    <nd ref='-698' />
-    <nd ref='-700' />
-    <nd ref='-702' />
-    <nd ref='-704' />
-    <nd ref='-706' />
-    <nd ref='-708' />
-    <nd ref='-710' />
-    <nd ref='-712' />
-    <nd ref='-714' />
-    <nd ref='-716' />
-    <nd ref='-718' />
-    <nd ref='-720' />
-    <nd ref='-722' />
-    <nd ref='-724' />
-    <nd ref='-726' />
-    <nd ref='-728' />
-    <nd ref='-730' />
-    <nd ref='-732' />
-    <nd ref='-734' />
-    <nd ref='-736' />
-    <nd ref='-738' />
-    <nd ref='-740' />
-    <nd ref='-742' />
-    <nd ref='-744' />
-    <nd ref='-746' />
-    <nd ref='-748' />
-    <nd ref='-750' />
-    <nd ref='-752' />
-    <nd ref='-754' />
-    <nd ref='-756' />
-    <nd ref='-758' />
-    <nd ref='-760' />
-    <nd ref='-762' />
-    <nd ref='-764' />
-    <nd ref='-766' />
-    <nd ref='-768' />
-    <nd ref='-770' />
-    <nd ref='-772' />
-    <nd ref='-774' />
-    <nd ref='-776' />
-    <nd ref='-778' />
-    <nd ref='-780' />
-    <nd ref='-782' />
-    <nd ref='-784' />
-    <nd ref='-786' />
-    <nd ref='-788' />
-    <nd ref='-790' />
-    <nd ref='-792' />
-    <nd ref='-794' />
-    <nd ref='-796' />
-    <nd ref='-798' />
-    <nd ref='-800' />
-    <nd ref='-802' />
-    <nd ref='-804' />
-    <nd ref='-806' />
-    <nd ref='-808' />
-    <nd ref='-810' />
-    <nd ref='-812' />
-    <nd ref='-814' />
-    <nd ref='-816' />
-    <nd ref='-818' />
-    <nd ref='-820' />
-    <nd ref='-822' />
-    <nd ref='-824' />
-    <nd ref='-826' />
-    <nd ref='-828' />
-    <nd ref='-830' />
-    <nd ref='-832' />
-    <nd ref='-834' />
-    <nd ref='-836' />
-    <nd ref='-838' />
-    <nd ref='-840' />
-    <nd ref='-842' />
-    <nd ref='-844' />
-    <nd ref='-846' />
-    <nd ref='-848' />
-    <nd ref='-850' />
-    <nd ref='-852' />
-    <nd ref='-854' />
-    <nd ref='-856' />
-    <nd ref='-858' />
-    <nd ref='-860' />
-    <nd ref='-862' />
-    <nd ref='-864' />
-    <nd ref='-866' />
-    <nd ref='-868' />
-    <nd ref='-870' />
-    <nd ref='-872' />
-    <nd ref='-874' />
-    <nd ref='-876' />
-    <nd ref='-878' />
-    <nd ref='-880' />
-    <nd ref='-882' />
-    <nd ref='-884' />
-    <nd ref='-886' />
-    <nd ref='-888' />
-    <nd ref='-890' />
-    <nd ref='-892' />
-    <nd ref='-894' />
-    <nd ref='-896' />
-    <nd ref='-898' />
-    <nd ref='-900' />
-    <nd ref='-902' />
-    <nd ref='-904' />
-    <nd ref='-906' />
-    <nd ref='-908' />
-    <nd ref='-910' />
-    <nd ref='-912' />
-    <nd ref='-914' />
-    <nd ref='-916' />
-    <nd ref='-918' />
-    <nd ref='-920' />
-    <nd ref='-922' />
-    <nd ref='-924' />
-    <nd ref='-926' />
-    <nd ref='-928' />
-    <nd ref='-930' />
-    <nd ref='-932' />
-    <nd ref='-934' />
-    <nd ref='-936' />
-    <nd ref='-938' />
-    <nd ref='-940' />
-    <nd ref='-942' />
-    <nd ref='-944' />
-    <nd ref='-946' />
-    <nd ref='-948' />
-    <nd ref='-950' />
-    <nd ref='-952' />
-    <nd ref='-954' />
-    <nd ref='-956' />
-    <nd ref='-958' />
-    <nd ref='-960' />
-    <nd ref='-962' />
-    <nd ref='-964' />
-    <nd ref='-966' />
-    <nd ref='-968' />
-    <nd ref='-970' />
-    <nd ref='-972' />
-    <nd ref='-974' />
-    <nd ref='-976' />
-    <nd ref='-978' />
-    <nd ref='-980' />
-    <nd ref='-982' />
-    <nd ref='-984' />
-    <nd ref='-986' />
-    <nd ref='-988' />
-    <nd ref='-990' />
-    <nd ref='-992' />
+    <nd ref='-36706' />
+    <nd ref='-36705' />
+    <nd ref='-36704' />
     <nd ref='-994' />
     <nd ref='-996' />
     <nd ref='-998' />
@@ -1306,5 +1101,127 @@
     <nd ref='-522' />
     <nd ref='-524' />
     <nd ref='-660' />
+    <nd ref='-662' />
+    <nd ref='-664' />
+    <nd ref='-666' />
+    <nd ref='-668' />
+    <nd ref='-670' />
+    <nd ref='-672' />
+    <nd ref='-674' />
+    <nd ref='-676' />
+    <nd ref='-678' />
+    <nd ref='-680' />
+    <nd ref='-682' />
+    <nd ref='-684' />
+    <nd ref='-686' />
+    <nd ref='-688' />
+    <nd ref='-690' />
+    <nd ref='-692' />
+    <nd ref='-694' />
+    <nd ref='-696' />
+    <nd ref='-698' />
+    <nd ref='-700' />
+    <nd ref='-702' />
+    <nd ref='-704' />
+    <nd ref='-706' />
+    <nd ref='-708' />
+    <nd ref='-710' />
+    <nd ref='-712' />
+    <nd ref='-714' />
+    <nd ref='-716' />
+    <nd ref='-718' />
+    <nd ref='-720' />
+    <nd ref='-722' />
+    <nd ref='-724' />
+    <nd ref='-726' />
+    <nd ref='-728' />
+    <nd ref='-730' />
+    <nd ref='-732' />
+    <nd ref='-734' />
+    <nd ref='-736' />
+    <nd ref='-738' />
+    <nd ref='-740' />
+    <nd ref='-742' />
+    <nd ref='-744' />
+    <nd ref='-746' />
+    <nd ref='-748' />
+    <nd ref='-750' />
+    <nd ref='-752' />
+    <nd ref='-754' />
+    <nd ref='-756' />
+    <nd ref='-758' />
+    <nd ref='-760' />
+    <nd ref='-762' />
+    <nd ref='-764' />
+    <nd ref='-766' />
+    <nd ref='-768' />
+    <nd ref='-770' />
+    <nd ref='-772' />
+    <nd ref='-774' />
+    <nd ref='-776' />
+    <nd ref='-778' />
+    <nd ref='-780' />
+    <nd ref='-782' />
+    <nd ref='-784' />
+    <nd ref='-786' />
+    <nd ref='-788' />
+    <nd ref='-790' />
+    <nd ref='-792' />
+    <nd ref='-794' />
+    <nd ref='-796' />
+    <nd ref='-798' />
+    <nd ref='-800' />
+    <nd ref='-802' />
+    <nd ref='-804' />
+    <nd ref='-806' />
+    <nd ref='-808' />
+    <nd ref='-810' />
+    <nd ref='-812' />
+    <nd ref='-814' />
+    <nd ref='-816' />
+    <nd ref='-818' />
+    <nd ref='-820' />
+    <nd ref='-822' />
+    <nd ref='-824' />
+    <nd ref='-826' />
+    <nd ref='-828' />
+    <nd ref='-830' />
+    <nd ref='-832' />
+    <nd ref='-834' />
+    <nd ref='-836' />
+    <nd ref='-838' />
+    <nd ref='-840' />
+    <nd ref='-842' />
+    <nd ref='-844' />
+    <nd ref='-846' />
+    <nd ref='-848' />
+    <nd ref='-850' />
+    <nd ref='-852' />
+    <nd ref='-854' />
+    <nd ref='-856' />
+    <nd ref='-858' />
+    <nd ref='-860' />
+    <nd ref='-862' />
+    <nd ref='-864' />
+    <nd ref='-866' />
+    <nd ref='-868' />
+    <nd ref='-870' />
+    <nd ref='-872' />
+    <nd ref='-874' />
+    <nd ref='-876' />
+    <nd ref='-878' />
+    <nd ref='-880' />
+    <nd ref='-882' />
+    <nd ref='-884' />
+    <nd ref='-886' />
+    <nd ref='-888' />
+    <nd ref='-890' />
+    <nd ref='-892' />
+    <nd ref='-894' />
+    <nd ref='-896' />
+    <nd ref='-898' />
+    <nd ref='-900' />
+    <nd ref='-902' />
+    <nd ref='-904' />
   </way>
 </osm>

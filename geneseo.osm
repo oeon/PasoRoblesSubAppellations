@@ -1,18 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
   <node id='-34422' visible='true' lat='35.6444374' lon='-120.6579877' />
-  <node id='-34421' visible='true' lat='35.6443014' lon='-120.6579892'>
-    <tag k='highway' v='traffic_signals' />
-  </node>
+  <node id='-34421' action='modify' visible='true' lat='35.6443014' lon='-120.6579892' />
   <node id='-34420' visible='true' lat='35.6437627' lon='-120.6579951' />
   <node id='-34419' visible='true' lat='35.64361' lon='-120.6580831' />
   <node id='-34418' visible='true' lat='35.6430163' lon='-120.6580987' />
   <node id='-34417' visible='true' lat='35.6422426' lon='-120.6580883' />
   <node id='-34416' visible='true' lat='35.6414415' lon='-120.658108' />
   <node id='-34415' visible='true' lat='35.6408889' lon='-120.6581025' />
-  <node id='-34414' visible='true' lat='35.6402458' lon='-120.6580961'>
-    <tag k='highway' v='stop' />
-  </node>
+  <node id='-34414' action='modify' visible='true' lat='35.6402458' lon='-120.6580961' />
   <node id='-34413' visible='true' lat='35.6398446' lon='-120.6580506' />
   <node id='-34412' visible='true' lat='35.6389988' lon='-120.6580661' />
   <node id='-34411' visible='true' lat='35.6386294' lon='-120.6580709' />
