@@ -41,3 +41,4 @@ http://www.regulations.gov/#!documentDetail;D=TTB-2013-0009-0060
 ###errors encountered
 1. §9.239   Creston District. 11) BM 1533 (located beside Creston Shandon Road (State Route 41)) **cannot find**
 2. §9.240   El Pomar District. 22) Proceed east along the southern boundary of section 4 approximately 0.75 mile to the section line's intersection with State Route 41; then **do you mean *'Proceed west'*?**
+3. §9.244   Willow Creek District 7) Jack Creek Road does not intersect Highway 46 (any longer, only on USGS topo map)
