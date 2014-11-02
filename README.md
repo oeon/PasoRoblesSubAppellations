@@ -30,7 +30,7 @@ http://www.regulations.gov/#!documentDetail;D=TTB-2013-0009-0060
 * OSM
  - OpenLayers plugin within QGIS
 * Teale Public Land Survey System (has Land Grant boundaries)
- - http://www.atlas.ca.gov/download.html#/casil/planning/planningAndDevelopment
+ - http://www.atlas.ca.gov/download.html#/casil/planning/planningAndDevelopment, `"LANDGRANT" IS NOT NULL`
 * (San Luis Obispo County) SLO Aerials
  - tms:`http://gis.slocounty.ca.gov/arcgis/rest/services/Aerials/2011_Combined_WGSWMAS/MapServer/tile/{zoom}/{y}/{x}`
 * SLO Roads
