@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "district": "Templeton Gap"
+        "district": "Templeton Gap",
+        "fill": "#a80000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3579,7 +3580,8 @@
     {
       "type": "Feature",
       "properties": {
-        "district": "Creston"
+        "district": "Creston",
+        "fill": "#730000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4890,7 +4892,8 @@
     {
       "type": "Feature",
       "properties": {
-        "district": "El Pomar"
+        "district": "El Pomar",
+        "fill": "#9b0000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7349,7 +7352,8 @@
     {
       "type": "Feature",
       "properties": {
-        "district": "Geneseo"
+        "district": "Geneseo",
+        "fill": "#ff1919"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9316,7 +9320,8 @@
     {
       "type": "Feature",
       "properties": {
-        "district": "Estrella"
+        "district": "Estrella",
+        "fill": "#d90000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12671,7 +12676,8 @@
     {
       "type": "Feature",
       "properties": {
-        "district": "Willow Creek"
+        "district": "Willow Creek",
+        "fill": "#eb0202"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18022,7 +18028,8 @@
     {
       "type": "Feature",
       "properties": {
-        "district": "Adelaida"
+        "district": "Adelaida",
+        "fill": "#910000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25949,7 +25956,8 @@
     {
       "type": "Feature",
       "properties": {
-        "district": "York Mountain"
+        "district": "York Mountain",
+        "fill": "#ff0000"
       },
       "geometry": {
         "type": "MultiPolygon",
