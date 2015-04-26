@@ -8,9 +8,10 @@
 http://kcbx.org/post/paso-robles-wine-growing-region-has-new-recognition-its-diversity
 
 ###data source(s):  
-http://www.ecfr.gov/cgi-bin/text-idx?SID=b93ce2451136237633a995e00e67e21f&node=20141009y1.2
 
 http://www.regulations.gov/#!documentDetail;D=TTB-2013-0009-0060
+
+*broken* http://www.ecfr.gov/cgi-bin/text-idx?SID=b93ce2451136237633a995e00e67e21f&node=20141009y1.2
 
 ###support tools:  
 * http://geojson.io
