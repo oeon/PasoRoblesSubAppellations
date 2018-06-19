@@ -1,3 +1,7 @@
+# ❗️use this instead: https://github.com/UCDavisLibrary/ava
+
+I wasn't able to finish this project and some other people have done it better ☝️
+
 =========================
 
 ## making open geo data of the new Paso Robles sub-appellations
